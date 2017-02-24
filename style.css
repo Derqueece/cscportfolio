@@ -4,3 +4,5 @@ body {
 h1 { 
     color: #42f4f1;
 }
+
+img { display: block;margin:auto;}
