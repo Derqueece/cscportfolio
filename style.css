@@ -1,8 +1,9 @@
 body {
     background-color: #ff69b4;
 }
-h1 { 
+a h1 { 
     color: #42f4f1;
+    text-align:center;
 }
 
 img { display: block;margin:auto;}
