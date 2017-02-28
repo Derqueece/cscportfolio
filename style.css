@@ -1,18 +1,8 @@
-body {
-    background-color: #6541f4;
-}
-a h1 { 
-    color: #42f4f1;
-    text-align:center;
-    display:block;
-    margin:auto;
-}
+<!DOCTYPE html>
+<html> link
+<head>
 
-img { 
-    display: block;
-    margin:auto;
-    border-radius:10px;
-}
+<style>
 ul {
     list-style-type: none;
     margin: 0;
@@ -36,3 +26,17 @@ li a {
 li a:hover {
     background-color: #111;
 }
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#Homepage"></a></li>
+  <li><a href="#About Sate.Nathan"></a></li>
+ 
+</ul>
+
+</body>
+</html>
+
